@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+68
+'ingresa 2 edades y te diremos si la suma de estos es un numero par'
+5
+1
+9
+num1,num2
+6
+2
+3
+sum
+9
+num1+num2
+7
+residuo
+9
+sum mod 2
+7
+0
+1
+9
+residuo=0
+4
+1
+20
+'el numero es impar'
+13
+4
+1
+18
+'el numero es par'
+13
+1
